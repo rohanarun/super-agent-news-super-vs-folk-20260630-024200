@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[bwmarketingworld.com](https://bwmarketingworld.com/article/60-of-indian-consumers-want-personal-ai-agents-highest-in-asia-pacific-adobe-556736)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_max_width\u22481120px 2\u20133 lines; bento_density=grid-auto-flow:dense present; labels_checked; button_contrast_checked",
+  "generated_at": "2026-06-30T02:42:08.286079+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison for people evaluating Super against Folk. Folk represents lightweight, niche automation in the agent market. Super is built for durable, repeated computer-use workflows, with agents that operate real computers and reuse a computer-use cache so work gets faster and cheaper over time. We also place both tools in the broader landscape alongside ChatGPT, Gemini, Grok, Siri, and Orchids, citing recent reporting on computer-use agents."
+}
